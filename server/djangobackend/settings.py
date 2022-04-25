@@ -27,7 +27,7 @@ DEBUG = True
 
 APPEND_SLASH = True
 
-ALLOWED_HOSTS = ["yluo1.eu-gb.cf.appdomain.cloud"]
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
